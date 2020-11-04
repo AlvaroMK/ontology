@@ -18,7 +18,6 @@
          rdfs:domain :Distrito ;
          rdfs:range :Fuente .
 
-
 ###  http://www.semanticweb.org/ontologies/group37/ontology-4#contiene
 :contiene rdf:type owl:ObjectProperty ;
           owl:inverseOf :pertenece_a ;
